@@ -5,7 +5,7 @@ I used this code as demo at the Tokyo iOS meetup on Nov 13th 2015.
 ## Usage
 
 - `lein cljsbuild once`
-- `pip3 install -i server/requirements.txt`
+- `pip3 install -r server/requirements.txt`
 - `python3 server/manage.py runserver`
 - `natal launch`
 
